@@ -1,0 +1,21 @@
+StartChar: F
+Encoding: 70 70 8
+Width: 2048
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 25
+ 0 1638 l 25
+ 1125 1638 l 29
+ 1125 1365 l 25
+ 250 1365 l 17
+ 250 955.5 l 1
+ 1000 955.5 l 5
+ 1000 682.5 l 1
+ 250 682.5 l 1
+ 250 0 l 9
+ 0 0 l 25
+EndSplineSet
+EndChar
