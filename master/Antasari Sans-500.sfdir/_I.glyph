@@ -1,0 +1,15 @@
+StartChar: I
+Encoding: 73 73 10
+Width: 2048
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+0 1638 m 25
+ 250 1638 l 25
+ 250 0 l 25
+ 0 0 l 29
+ 0 1638 l 25
+EndSplineSet
+EndChar
