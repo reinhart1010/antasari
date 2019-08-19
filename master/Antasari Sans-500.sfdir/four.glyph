@@ -1,0 +1,24 @@
+StartChar: four
+Encoding: 52 52 14
+Width: 1234
+VWidth: 0
+Flags: W
+HStem: 0 21G<962 1202> 658 240<304 962> 1317 239<32 962>
+VStem: 962 240<0 658 898 1317>
+LayerCount: 2
+Fore
+SplineSet
+962 0 m 1
+ 962 658 l 1
+ 304 658 l 1
+ 304 898 l 1
+ 962 898 l 1
+ 962 1317 l 1
+ 32 1317 l 1
+ 32 1556 l 1
+ 1202 1556 l 1
+ 1202 0 l 1
+ 962 0 l 1
+EndSplineSet
+Validated: 1
+EndChar

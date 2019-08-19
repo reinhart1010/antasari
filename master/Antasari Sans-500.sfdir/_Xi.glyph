@@ -1,0 +1,27 @@
+StartChar: Xi
+Encoding: 926 926 18
+Width: 1234
+VWidth: 0
+Flags: W
+HStem: 0 237<32 1202> 658 240<272 962> 1317 239<32 1202>
+LayerCount: 2
+Fore
+SplineSet
+1202 1556 m 25
+ 1202 1317 l 1
+ 32 1317 l 1
+ 32 1556 l 1
+ 1202 1556 l 25
+272 658 m 1
+ 272 898 l 1
+ 962 898 l 1
+ 962 658 l 1
+ 272 658 l 1
+32 0 m 1
+ 32 237 l 1
+ 1202 237 l 1
+ 1202 -2 l 1
+ 32 0 l 1
+EndSplineSet
+Validated: 1
+EndChar

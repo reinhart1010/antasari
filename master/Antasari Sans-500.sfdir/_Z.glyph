@@ -1,0 +1,21 @@
+StartChar: Z
+Encoding: 90 90 16
+Width: 1234
+VWidth: 0
+Flags: W
+HStem: 0 239<420 1202> 1317 239<34 821>
+LayerCount: 2
+Fore
+SplineSet
+420 239 m 1
+ 1202 239 l 1
+ 1202 0 l 1
+ 34 0 l 1
+ 821 1317 l 1
+ 34 1317 l 1
+ 34 1556 l 1
+ 1234 1556 l 1
+ 420 239 l 1
+EndSplineSet
+Validated: 1
+EndChar

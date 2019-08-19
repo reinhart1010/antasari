@@ -9,8 +9,8 @@ Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -598
 UnderlineWidth: 307
-Ascent: 1638
-Descent: 410
+Ascent: 1556
+Descent: 492
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1534439568
-ModificationTime: 1534612500
+ModificationTime: 1566236301
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -50,8 +50,14 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 27 27 9
-BeginPrivate: 0
+WinInfo: 0 15 11
+BeginPrivate: 1
+BlueValues 17 [-20 0 1556 1556]
 EndPrivate
+Grid
+-2781.87548828 2580 m 0
+ -2781.87548828 -1516 l 1024
+EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "A""" 
 EndSplineFont
